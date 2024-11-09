@@ -1,0 +1,20 @@
+:root {
+    --back: #000;
+    --white: #fff;
+    --bg-content-sider: #fff;
+    --text-color: #333333;
+    --link-color: #1e90ff;
+    --bg-color: #f5f5f5;
+    --bg-li: #f5f5f5;
+}
+
+html[theme="dark"] {
+    --back: #fff;
+    --white: #000;
+    --bg-content-sider: #161a1d;
+    --text-color: #8c9bab;
+    --link-color: #66c2ff;
+    --bg-color: #1d2125;
+    --bg-li: #22272b;
+}
+
