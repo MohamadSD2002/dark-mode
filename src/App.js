@@ -3,8 +3,6 @@ import Sider from 'antd/es/layout/Sider';
 import React from 'react';
 import Navbar from './components/Navbar';
 import AppRouter from './router';
-import './styles/index.less';
-import './styles/themeVariables.css';
 
 const App = () => {
 
