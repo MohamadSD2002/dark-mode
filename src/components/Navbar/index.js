@@ -28,7 +28,7 @@ const Navbar = () => {
                     <Link to="/about">About</Link>
                 </li>
                 <li>
-                    <Link to="/nothing-here">Nothing Here</Link>
+                    <Link to="/nothing-here">404</Link>
                 </li>
                 <li>
                     <Switch
