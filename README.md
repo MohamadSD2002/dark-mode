@@ -1,5 +1,6 @@
 ## Demo
-[Live https://mohamadsd2002.github.io/dark-mode/)
+[Live Preview] https://mohamadsd2002.github.io/dark-mode/)
+
 
 # Getting Started with Create React App
 
