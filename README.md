@@ -1,73 +1,111 @@
+# 🌙 Dark Mode React App
+
+A simple React application demonstrating **Dark / Light mode toggle** using React state and localStorage for theme persistence.
+
+---
+
 ## 🚀 Live Demo
-[![Open in GitHub Pages](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge)](https://mohamadsd2002.github.io/dark-mode/)
 
-# Getting Started with Create React App
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Dark%20Mode-blue?style=for-the-badge)](https://mohamadsd2002.github.io/dark-mode/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+👉 [Open App](https://mohamadsd2002.github.io/dark-mode/)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- 🌗 Light / Dark mode toggle
+- 💾 Theme persistence with `localStorage`
+- ⚡ Smooth UI updates
+- 🧠 Simple state management with React hooks
+- 📱 Responsive design
+- 🎯 Beginner-friendly structure
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Tech Stack
 
-### `npm test`
+- React
+- JavaScript / TypeScript (based on your project)
+- CSS / Tailwind (if used)
+- GitHub Pages (deployment)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📂 Project Structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+src
+├── components
+│   └── ThemeToggle
+├── hooks
+│   └── useTheme
+├── pages
+├── styles
+└── App.jsx
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Getting Started
 
-### `npm run eject`
+Clone the repository:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+git clone https://github.com/MohamadSD2002/dark-mode.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Go to project:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+cd dark-mode
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Install dependencies:
 
-## Learn More
+```bash
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Run project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm run dev
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📦 Build & Deploy
 
-### Analyzing the Bundle Size
+Build production:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm run build
+```
 
-### Making a Progressive Web App
+Deploy to GitHub Pages:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+npm run deploy
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🧠 What I Learned
 
-### Deployment
+This project helped me understand:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- React state management
+- Theme toggling logic
+- Persisting data in localStorage
+- Conditional rendering
+- UI state synchronization
+- Deploying React apps to GitHub Pages
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 👨‍💻 Author
+
+**Mohammad Sedigh Bakhshaish**
+
+- GitHub: https://github.com/MohamadSD2002
